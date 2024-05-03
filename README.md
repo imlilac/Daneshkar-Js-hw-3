@@ -2,7 +2,7 @@
 
 ![logo](https://github.com/imlilac/instagram-card/blob/main/img/banner.jpg)
 
-Question : write function that get sentence from user with prompt then shows the number of each character in the output
+Practice javascript
 
 ## Table of contents
 
@@ -12,9 +12,9 @@ Question : write function that get sentence from user with prompt then shows the
 
 ## Challenge
 
-Users should be able to:
+Question:
 
--  View the optimal layout for the site depending on their device's screen size
+-   write function that get sentence from user with prompt then shows the number of each character in the output
 
 ### Screenshot
 
