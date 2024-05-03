@@ -18,7 +18,8 @@ Question:
 
 ### Screenshot
 
-![](https://github.com/imlilac/instagram-card/blob/main/img/screen-1.png)
+![](https://github.com/imlilac/Daneshkar-Js-hw-3/blob/main/assets/screenshot%20(1).png)
+![](https://github.com/imlilac/Daneshkar-Js-hw-3/blob/main/assets/screenshot%20(2).png)
 
 ## My process
 
@@ -26,6 +27,7 @@ Question:
 
 -  Semantic HTML5 markup
 -  CSS custom properties
+-  JS
 
 ## Author
 
