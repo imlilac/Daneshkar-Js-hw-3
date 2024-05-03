@@ -1,8 +1,8 @@
-# Instagram Post
+# JS Homework 
 
 ![logo](https://github.com/imlilac/instagram-card/blob/main/img/banner.jpg)
 
-Designing a simple instagram card using HTML5 & CSS.
+Question : write function that get sentence from user with prompt then shows the number of each character in the output
 
 ## Table of contents
 
